@@ -1,0 +1,26 @@
+{
+  "name": "scrape-with-puppeteer",
+  "version": "1.0.0",
+  "description": "Scraping example with puppeteer.js of a Feature Layer in Arcgis.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisSevillano/scrape-with-puppeteer.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "nodejs",
+    "scraping"
+  ],
+  "author": "Luis Sevillano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisSevillano/scrape-with-puppeteer/issues"
+  },
+  "homepage": "https://github.com/LuisSevillano/scrape-with-puppeteer#readme",
+  "dependencies": {
+    "d3-dsv": "^1.2.0",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^3.0.0"
+  }
+}
