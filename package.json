@@ -20,7 +20,7 @@
   "homepage": "https://github.com/LuisSevillano/scrape-with-puppeteer#readme",
   "dependencies": {
     "d3-dsv": "^1.2.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "puppeteer": "^3.0.0"
   }
 }
